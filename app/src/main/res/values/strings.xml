@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Word Generator</string>
+    <string name="edittext_generate_hint">enter characters</string>
+    <string name="button_generate_text">Generate</string>
+</resources>
